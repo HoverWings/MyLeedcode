@@ -1,4 +1,3 @@
-﻿  69_Sqrt(x).cpp
-d:\projects\myleedcode\myleedcode\69_sqrt(x).cpp(13): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
-d:\projects\myleedcode\myleedcode\69_sqrt(x).cpp(36): warning C4715: “Solution::judge”: 不是所有的控件路径都返回值
-  MyLeedcode.vcxproj -> D:\Projects\MyLeedcode\MyLeedcode\Debug\MyLeedcode.exe
+﻿  35_Search_Insert_Position.cpp
+  MyLeedcode.vcxproj -> C:\Users\10074\Desktop\Projects\MyLeedcode\Debug\MyLeedcode.exe
+  MyLeedcode.vcxproj -> C:\Users\10074\Desktop\Projects\MyLeedcode\Debug\MyLeedcode.pdb (Partial PDB)

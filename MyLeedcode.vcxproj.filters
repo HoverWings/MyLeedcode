@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="69_Sqrt(x).cpp">
+    <ClCompile Include="35_Search_Insert_Position.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
