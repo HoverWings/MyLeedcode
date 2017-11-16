@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="35_Search_Insert_Position.cpp">
+    <ClCompile Include="42_Trapping_Rain_Water.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
